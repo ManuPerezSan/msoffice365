@@ -15,9 +15,6 @@ Connect to your Windows Virtual Desktop and obtain data about your environment (
 
 ## Parameter mkt
     Only when provider=Bing. The region (es-US by default)
-  
-## Parameter Outfile
-    The name of the output file file
 
 ## Output
     Output file is saved in %APPDATA%\Microsoft\Teams\Backgrounds\Uploads
