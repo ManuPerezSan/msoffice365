@@ -5,6 +5,7 @@ Connect to your Windows Virtual Desktop and obtain data about your environment (
     Possible values: Windows10, Bing or Unsplash
 
     Windows10 copy images from Microsoft.Windows.ContentDeliveryManager
+    Bing and Unsplash use their REST API to download picture(s)
 
 ## Parameter idx
     Only when provider=Bing. 0 = today, 1 = yesterday (0 by default)
