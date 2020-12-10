@@ -1,5 +1,5 @@
 ﻿# WVD-Report
-Connect to your Windows Virtual Desktop and obtain data about your environment (host pools, application groups, published apps and sessions)
+Get Bing, Unsplash or Windows10 daily images as custom backgrounds in Microsoft Teams
 
 ## Parameter Provider
     Possible values: Windows10, Bing or Unsplash
