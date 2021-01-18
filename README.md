@@ -1,4 +1,4 @@
-﻿# WVD-Report
+﻿# DownloadImagesToTeams
 Get Bing, Unsplash or Windows10 daily images as custom backgrounds in Microsoft Teams
 
 ## Parameter Provider
